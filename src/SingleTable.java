@@ -1,4 +1,10 @@
 /**
+ * AP CS A - 2021 - FRQ #2
+ * Created By: Frederick Morrison
+ * Creation Date: 2021-05-11
+ */
+
+/**
  * Purpose: Represents a table at a restaurant
  */
 public class SingleTable
